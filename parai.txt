@@ -1,0 +1,28 @@
+CSS = Cascading style sheet
+- Inline: Tags, as attribute
+- Internal: In the head tag
+- External: Seperate file, ext: .css
+
+
+
+<p style="font-family: Arial; color: red;"> text </p>
+
+ids, classes
+
+ID, Class
+
+School:
+classes
+
+id: unique for aelement
+
+id="..."
+
+---
+
+
+nodejs
+frontned.backend
+rest apis
+bre\h
+aHAI
